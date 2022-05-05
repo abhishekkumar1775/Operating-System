@@ -1,3 +1,5 @@
+SHORTEST JOB FIRST SCHEDULER
+
 Read data from a file "input.dat"
 The first line is <number of processes>
 Second line is <quantum value>
